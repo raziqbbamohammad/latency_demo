@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApiLatencyDemo</string>
+    <string name="click_above_button_to_make_api_call">Click above button to make API call</string>
+    <string name="hit_with_retrofit">Hit with Retrofit</string>
+    <string name="latency_demo">Latency demo. Make sure that you are connected to internet and hit the API</string>
+    <string name="hit_with_volley">Hit with Volley</string>
+    <string name="failed">Failed</string>
+    <string name="retrofit_success_message">Retrofit API call completed in (%s)ms</string>
+    <string name="volley_success_message">Volley API call completed in (%s)ms</string>
+</resources>
